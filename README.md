@@ -137,18 +137,6 @@ Open the UI in your browser (Streamlit will print the local URL, usually `http:/
 
 ---
 
-## 🧾 Credits
-
-Built from the provided `final_pdf_ocr.py` Streamlit app which implements fast hybrid PDF/image extraction, FAISS-backed RAG, and LLM summarization.
-
----
-
-## 📄 License
-
-Add your preferred license here (e.g., MIT, Apache-2.0).
-
----
-
 ## ✍️ Want changes?
 If you'd like the README adjusted (shorter, longer, include code snippets, or a quick start section), tell me and I'll update it.
 
