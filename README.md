@@ -137,6 +137,4 @@ Open the UI in your browser (Streamlit will print the local URL, usually `http:/
 
 ---
 
-## ✍️ Want changes?
-If you'd like the README adjusted (shorter, longer, include code snippets, or a quick start section), tell me and I'll update it.
 
