@@ -1,5 +1,5 @@
 # 📄 DocSense AI
-
+ 
 **DocSense AI** is a fast document analyzer built with Streamlit that accepts PDFs (including scanned PDFs), images, and returns: extracted text, image descriptions, concise summaries, and answers to user questions using a Retrieval-Augmented Generation (RAG) pipeline.
 
 ---
